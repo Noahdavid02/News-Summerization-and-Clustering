@@ -1,5 +1,4 @@
-# News-Summerization-and-Clustering-
-News Summarization and clustering Using Statistical Modeling 
+#News Summarization and clustering Using Statistical Modeling 
 
 
 The most valuable resource in the world is time and in today's hectic environment people frequently lack the time to read the news, even when it is of interest to them. A full newspaper is supposed to take about 60 minutes to read. People often struggle to find time to read the news because of their demanding jobs and demanding family obligations. But everyone is aware of how important it is to stay current with news. This initiative aims to address and resolve this issue. By delivering the major news story in the smallest amount of time feasible, our goal is to make reading the news simple and quick. The concept of text summarizing differs slightly from that of topic modeling's key phrase extraction. According on how long we would want the summary to be, the final product in this scenario takes the form of a paper but only contains a few sentences. This is comparable to an executive summary or abstract in a research report. The primary goal of automated document summarizing is to carry out this summarization using only computer programs and no human involvement.
